@@ -1,9 +1,9 @@
 <?xml-stylesheet href="/rss.xsl" type="text/xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Lizhi&#39;Blog</title>
+    <title>Eat Drink Man Woman</title>
     <link>https://lzc-up.github.io/</link>
-    <description>Recent content on Lizhi&#39;Blog</description>
+    <description>Recent content on Eat Drink Man Woman</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <copyright>This is a customized copyright.</copyright>
@@ -19,8 +19,13 @@
         <pubDate>Tue, 26 Dec 2023 23:46:41 +0800</pubDate>
         
         <guid>https://lzc-up.github.io/posts/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/</guid>
-        <description>Lizhi&#39;Blog https://lzc-up.github.io/posts/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/ -&lt;h4 id=&#34;关于作者&#34;&gt;关于作者&lt;/h4&gt;
-&lt;p&gt;一名计算机科学中的小学童，初入门径。&lt;/p&gt;
+        <description>Eat Drink Man Woman https://lzc-up.github.io/posts/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/ -&lt;p&gt;&lt;img src=&#34;https://lzc-up.github.io/images/person.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;引言&#34;&gt;引言&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我希望计算机科学领域永远不要失去趣味性，你所知晓的计算机知识别人也能够学会，不要以为成功实施计算的钥匙只掌握在你手上。你所拥有的，也是我所期望的，就是智慧：只有掌握了超越机器本身的能力，你才能够将它向前推进。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;关于作者&#34;&gt;关于作者&lt;/h4&gt;
+&lt;p&gt;计算机科学中的小学童，初入门径。&lt;/p&gt;
 &lt;h4 id=&#34;待续&#34;&gt;待续&lt;/h4&gt;
 - https://lzc-up.github.io/posts/%E8%87%AA%E6%88%91%E4%BB%8B%E7%BB%8D/ - This is a customized copyright.</description>
         </item>
@@ -33,7 +38,7 @@
         <pubDate>Tue, 26 Dec 2023 16:20:15 +0800</pubDate>
         
         <guid>https://lzc-up.github.io/posts/%E6%89%8B%E6%91%98/</guid>
-        <description>Lizhi&#39;Blog https://lzc-up.github.io/posts/%E6%89%8B%E6%91%98/ -&lt;h4 id=&#34;自勉&#34;&gt;自勉&lt;/h4&gt;
+        <description>Eat Drink Man Woman https://lzc-up.github.io/posts/%E6%89%8B%E6%91%98/ -&lt;h4 id=&#34;自勉&#34;&gt;自勉&lt;/h4&gt;
 &lt;blockquote&gt;
 &lt;p&gt;冬十月，艾自阴平道行无人之地七百馀里，凿山通道，造作桥阁。山高谷深，至为艰险，又粮运将匮，频于危殆。艾以氊自裹，推转而下。将士皆攀木缘崖，鱼贯而进&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;。&lt;/p&gt;
 &lt;/blockquote&gt;
